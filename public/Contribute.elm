@@ -62,7 +62,7 @@ cool things might be:
 
   * Diagram-heavy presentations, like [this](/learn/What-is-FRP.elm) and
     [this](/blog/announce/version-0.5.0.elm). Maybe about
-    physics or chemistry, like in the example attatched [here][physics].
+    physics or chemistry, like in the example attached [here][physics].
     This is super easy in Elm!
 
   * Games: Maze, Sudoku, Breakout, Side-scroller, etc.
@@ -135,7 +135,7 @@ than when you found it!
 
  * Improve the type inference algorithm and provide better error messages! This
    is super important! The recommended approach to implementing type inference is described
-   [here][infer]. Feel free to keep the machinary for Typeclasses! It'll make it into Elm
+   [here][infer]. Feel free to keep the machinery for Typeclasses! It'll make it into Elm
    eventually. Most importantly, have line numbers for type errors!
 
  * Have a less ad-hoc way of compiling and type-checking modules. Ideally Elm's [standard

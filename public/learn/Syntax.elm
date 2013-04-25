@@ -170,7 +170,7 @@ and are left associative. You cannot override built-in operators.
 
     (a,b) +++ (x,y) = (a + x, b + y)
 
-In the case of recursion and mutual recursion, the order of the 
+In the case of recursion and mutual recursion, the order of the
 function definitions does not matter, Elm figures it out.
 In all other cases, assume that definitions
 need to appear before their use.
@@ -192,7 +192,7 @@ should align with the one above it.
 
 ### Applying Functions
 
-If we deine some function called `append` that puts lists together
+If we define some function called `append` that puts lists together
 
     append xs ys = xs ++ ys
 
